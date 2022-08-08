@@ -1,3 +1,4 @@
-2022 Adobe Career Academy Technical Project
+Warriors-Bot
 
-Warriors-Bot _By Toey Lui_
+2022 Adobe Career Academy - Technical Project
+By Toey Lui
